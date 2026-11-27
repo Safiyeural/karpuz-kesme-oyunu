@@ -1,0 +1,15 @@
+build/
+*-build-*/
+*.pro.user*
+*.autosave
+.qtcreator/
+.qtc_clangd/
+.qmake.stash
+*.o
+*.obj
+*.exe
+moc_*
+ui_*
+qrc_*
+Makefile*
+skorlar.txt
